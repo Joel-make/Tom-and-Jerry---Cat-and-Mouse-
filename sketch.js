@@ -4,10 +4,10 @@ var bgImg;
 
 function preload()
 {
-  tom_i=loadImage("images/cat1.png");
-  jerry_i=loadImage("images/mouse1.png");
-  jerry_i2=loadAnimation("images/mouse3.png");
-  bgImg = loadImage("images/garden.png");
+  tom_i=loadImage("cat1.png");
+  jerry_i=loadImage("mouse1.png");
+  jerry_i2=loadAnimation("mouse3.png");
+  bgImg = loadImage("garden.png");
   
 }
 
